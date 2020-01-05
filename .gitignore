@@ -1,0 +1,8 @@
+*.iml
+.idea
+*.class
+workspace.xml
+uiDesigner.xml
+misc.xml
+compiler.xml
+target
